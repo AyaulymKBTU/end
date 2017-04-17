@@ -1,0 +1,9 @@
+C:\Users\Compaq\Desktop\.net_pakita\end\end\bin\Debug\end.exe.config
+C:\Users\Compaq\Desktop\.net_pakita\end\end\bin\Debug\end.exe
+C:\Users\Compaq\Desktop\.net_pakita\end\end\bin\Debug\end.pdb
+C:\Users\Compaq\Desktop\.net_pakita\end\end\obj\Debug\end.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Desktop\.net_pakita\end\end\obj\Debug\end.Form1.resources
+C:\Users\Compaq\Desktop\.net_pakita\end\end\obj\Debug\end.Properties.Resources.resources
+C:\Users\Compaq\Desktop\.net_pakita\end\end\obj\Debug\end.csproj.GenerateResource.Cache
+C:\Users\Compaq\Desktop\.net_pakita\end\end\obj\Debug\end.exe
+C:\Users\Compaq\Desktop\.net_pakita\end\end\obj\Debug\end.pdb
